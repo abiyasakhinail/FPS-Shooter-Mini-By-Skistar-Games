@@ -1,18 +1,50 @@
-👨‍💻 Developer
-Nama : Skistar Games
+# 🎮 FPS Shooter Mini
 
-Project : FPS Shooter Mini
+## 👨‍💻 Developer
+**Skistar Games**
 
-Genre : First Person Shooter
+## 📌 Project Information
+- **Project Name:** FPS Shooter Mini
+- **Genre:** First Person Shooter (FPS)
+- **Built With:** HTML, CSS, JavaScript
+- **Purpose:** Project ini dibuat untuk melatih kemampuan pengembangan game menggunakan HTML Canvas dan JavaScript.
 
-Dibuat Dengan : HTML, CSS, JavaScript
+---
 
-Project ini dibuat untuk melatih kemampuan membuat game menggunakan HTML Canvas dan JavaScript.
+## 🎯 About The Game
+**FPS Shooter Mini** adalah game FPS ringan berbasis browser yang menghadirkan gameplay cepat dan seru dengan berbagai jenis senjata serta efek unik.
 
+Tugas pemain adalah mengalahkan musuh sebanyak mungkin untuk mempertahankan dan memperoleh skor tertinggi.
 
-🎮 Tentang Game
-FPS Shooter Mini adalah game FPS ringan berbasis browser dengan berbagai jenis senjata dan efek unik.
+---
 
-Tujuan bermain game ini adalah pemain harus mengalahkan musuh sebanyak mungkin untuk mempertahankan dan mendapatkan score tertinggi.
+## ✨ Features
+- 🔫 Beragam jenis senjata
+- 💥 Efek tembakan dan visual yang menarik
+- 🎯 Gameplay cepat dan menantang
+- 🏆 Sistem skor (high score)
+- 🎨 Tampilan modern dan sederhana
+- 🌐 Dapat dimainkan langsung melalui browser
 
-Di Game buatan saya ini memiliki tampilan modern, gameplay cepat, cocok untuk mengisi waktu luang anda, dan kontrol sederhana.
+---
+
+## 🎮 Gameplay
+1. Kendalikan karakter menggunakan keyboard dan mouse.
+2. Bidik serta tembak musuh yang muncul.
+3. Kumpulkan skor sebanyak mungkin.
+4. Bertahan selama mungkin untuk mendapatkan skor tertinggi.
+
+---
+
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- HTML Canvas API
+
+---
+
+## 📖 Description
+FPS Shooter Mini merupakan proyek pembelajaran yang berfokus pada implementasi mekanisme game FPS menggunakan teknologi web. Melalui proyek ini, berbagai konsep seperti rendering objek, deteksi tabrakan, sistem skor, dan kontrol pemain diterapkan menggunakan JavaScript dan HTML Canvas.
+
+---
